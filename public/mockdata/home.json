@@ -1,0 +1,245 @@
+[
+  {
+    "Slider": [
+      {
+        "image": "../assets/images/Banner/home_banner.svg",
+        "mobileImage": "../assets/images/Banner/Bnnaer_1.svg",
+        "title": "All in One Management Solution for your Institution",
+        "content": [
+          "It is an innovative cloud-based Software as a Service that offers  affordable solutions",
+          "focused on easy and effective administration of Educational Institutions of any size."
+        ]
+      },
+      {
+        "image": "../assets/images/Banner/home_banner3a-01.svg",
+        "mobileImage": "../assets/images/Banner/Home_Banner02.svg",
+        "title": "Easy Integration to Improve Operational Efficiency",
+        "content": [
+          "Delivering a reliable and highly secured digital",
+          "platform for Educational Institutions, allows easier",
+          "management of interactions among faculty,",
+          "students and their parents in real-time."
+        ]
+      }
+    ],
+    "features": [
+      {
+        "image": "../assets/images/Efficency/Safty.png",
+        "href": "http://mentorerp.com/mentorfeature.html",
+        "link": "http://mentorerp.com/mentorfeature.html",
+        "title": "Improve Student Safety",
+        "content": "Technology has been playing a pivotal role with the ability to be present everywhere. It alerts & reports on driving behavior and monitors College buses in real-time. It provides information of the student attendance, & real time location & timings of the bus. Additionally, RFID attendance system ensures that students are under surveillance right from the time they enter the premises. Thus ensuring Peace of Mind.",
+        "button": "Read More"
+      },
+      {
+        "href": "http://mentorerp.com/mentorfeature.html",
+        "link": "http://mentorerp.com/mentorfeature.html",
+        "image": "../assets/images/Efficency/Taskcollaboration.png",
+        "title": "Task Collaboration",
+        "content": "It’s a platform where faculties can share the reference documents, study materials, white board content to the students and helps to have one on one conversation periodically to improve the student's performance. It allows one to connect with all faculties, Parents and students on one system allowing easy exchange of information, schedule meetings, and enhance collaboration.",
+        "button": "Read More"
+      },
+      {
+        "image": "../assets/images/Efficency/Tracking.png",
+        "title": "Live Bus tracking",
+        "content": "Our bus monitoring solution is designed to provide administration with a bus security system, to ensure safety of school children in transit. The parents are more concerned about their child’s safety, track my bus provides information of the student attendance, &amp; real time location &amp; timings of the bus, thus ensuring their Peace of Mind.",
+        "button": "Read More"
+      },
+      {
+        "image": "../assets/images/Efficency/Biometric.png",
+        "title": "Biometric Integration",
+        "content": "Seamless integration of any Biometric device based on your Institution requirement to manage the attendance effectively. Mentor ERP solution works with biometric hardware to track the time in and time out of your students, teaching and non-teaching faculties. The attendance logs (Time-In &amp; Out) will be updated to our cloud based database and accessible at any time for attendance related report generation, Payroll calculation and Audit purposes.",
+        "button": "Read More"
+      },
+      {
+        "image": "../assets/images/Efficency/RFID.png",
+        "title": "RFID Integration",
+        "content": "Based on our experience in working with other institutions, one of the challenges for an Institution is to keep track of attendance for both students and faculties, manually. We have simplified this challenge by automating the whole process , together with making it secure and reliable. It offers a complete attendance monitoring solution with little to no dependency from the administrative team.",
+        "button": "Read More"
+      },
+      {
+        "image": "../assets/images/Efficency/CCTV.png",
+        "title": "CCTV Surveillance",
+        "content": "Technology has been playing a pivotal role by allowing feasibility to be present everywhere, remotely. It brings better security assurance for students as students are monitored individually, Teacher's teaching behaviour can be monitored, emergencies can be managed effectively, help school authorities to track each and every event that unfolds in the classroom. This can help more than the surprise visits from authorities.",
+        "button": "Read More"
+      },
+      {
+        "image": "../assets/images/Efficency/RealTimeReport.png",
+        "title": "Real-time Reports",
+        "content": "We have designed multiple types of real time reports in our product and these standard report templates can be easily configured to track metrics from the admission enquiry process till issuing the certificates.",
+        "button": "Read More"
+      },
+      {
+        "image": "../assets/images/Efficency/Safty.png",
+        "title": "Live Bus tracking",
+        "content": "Our bus monitoring solution is designed to provide administration with a bus security system, to ensure safety of school children in transit. The parents are more concerned about their child’s safety, track my bus provides information of the student attendance, &amp; real time location &amp; timings of the bus, thus ensuring their Peace of Mind.",
+        "button": "Read More"
+      },
+      {
+        "image": "../assets/images/Efficency/Dashboard.png",
+        "title": "Real-time Dashboard",
+        "content": "Mentor ERP helps you to set up your own dashboard exactly the way you would like to want. A real time dashboard contains multiple type of data visualizations that are automatically updated with the most current data available in the system. These data visualizations offer a combination of historic data and real-time information that is useful for identifying emerging trends and monitoring efficiency of your operational activities.",
+        "button": "Read More"
+      },
+      {
+        "image": "../assets/images/Efficency/ContinuousImprovement.png",
+        "title": "Continious Improvement",
+        "content": "At Bloomlync we are constantly focusing towards enhancing the ERP solutions based on the Government updated policy, new feature request, changes or any new recommendation suggested by Educational Institutions. We would periodically add a new feature or update certain existing features and update you Institution accordingly.&nbsp; As required, necessary training shall be arranged and parted to the respective users on any new updates, free of cost.",
+        "button": "Read More"
+      },
+      {
+        "image": "../assets/images/Efficency/Communication.png",
+        "title": "Centralized Communication",
+        "content": "All important announcements can be distributed through our SMS, Email and Push notifications (mobile). Additionally, the announcement dashboard section helps for centralized communication for parents, students, teaching and non-teaching faculties.",
+        "button": "Read More"
+      }
+    ],
+
+    "freeTrial": {
+      "title": "Discover Mentor ERP Now!",
+      "image": "../assets/images/Common/discoverpopup.jpg",
+      "button": "Submit",
+      "placeholder": [
+        { "title": "institute", "placeholder": "Name of Institute*" },
+        { "title": "name", "placeholder": "Contact Person Name*" },
+        { "title": "contact", "placeholder": "Contact Number*" },
+        { "title": "email", "placeholder": "Email ID*" },
+        { "title": "note", "placeholder": "Note*" }
+      ]
+    },
+    "Promise": {
+      "image": "../assets/images/Common/HomeLeft.png",
+      "atBloomlync": "At Bloomlync, our primary focus is helping educational institutions and organizations stay on the cutting-edge technologies by developing products and modern applications, that are scalable, flexible, secure, robust and easily maintainable. We work collaboratively with our customers to deliver projects through agile development methodology with built-in quality assurance and transparency is the most satisfactory feedback received over the years.",
+      "consistent": "We remain consistent in providing IT solutions with greater efficiency and utmost quality, ensuring complete customer satisfaction. We help organizations effectively manage the application portfolio with the help of our highly qualified, vast industry experience and skilled professionals.",
+      "weEmpower": "We empower our clients with transformational value by leveraging our proven implementation tools, techniques, following the industry best practices. Our Developers have hands-on experience working as IT heads for top institutions. We have a thorough understanding of the IT challenges within the education sector. We have vast experience implementing complex cloud based applications and creating success for them.",
+      "ourPromise": [
+        "We will bring our field-tested and proven methodology and guarantee you the top quality service at all times.",
+        "We will update you about the progress of the project on a weekly basis and take your feedback and suggestions.",
+        "We will stay with you and support you and help accelerate the ROI."
+      ],
+      "implementation": [
+        "Our consultants will sit with you to understand your digital strategies and your day-to-day needs to develop solution that is specific to your eco-system.",
+        "Our experienced engineers will implement the solution and fully integrate it with your existing system and make sure it runs smooth.",
+        "Our Customer Success team will train your staff and walk with the end users to increase adoption and end-user experience."
+      ]
+    },
+    "softwareDevPractice": {
+      "rowOne": [
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-1.svg",
+          "title": "Full Stack Development"
+        },
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-2.svg",
+          "title": "Native Mobile App Development"
+        },
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-3.svg",
+          "title": "Hybrid Mobile App Development"
+        },
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-4.svg",
+          "title": "API Development and Management"
+        },
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-5.svg",
+          "title": "UX/UI Design and Development"
+        },
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-6.svg",
+          "title": "CRM Design and Implementation"
+        }
+      ],
+      "rowTwo": [
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-7.svg",
+          "title": "DevOps Implementation"
+        },
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-8.svg",
+          "title": "Project Management"
+        },
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-9.svg",
+          "title": "Database Design"
+        },
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-10.svg",
+          "title": "Database Migration"
+        },
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-11.svg",
+          "title": "ETL Development"
+        },
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-12.svg",
+          "title": "Cloud Computing"
+        }
+      ]
+    },
+    "softwareTestPractice": {
+      "rowOne": [
+        {
+          "image": "images/Testing/Infographics1-01.svg",
+          "title": "Integration Testing"
+        },
+        {
+          "image": "images/Testing/Infographics1-02.svg",
+          "title": "Regression Testing"
+        },
+        {
+          "image": "images/Testing/Infographics1-03.svg",
+          "title": "System Testing"
+        },
+        {
+          "image": "images/Testing/Infographics1-04.svg",
+          "title": "Compliance Testing"
+        }
+      ],
+      "rowTwo": [
+        {
+          "image": "images/Testing/Infographics1-05.svg",
+          "title": "User Accepance Testing"
+        },
+        {
+          "image": "images/Testing/Infographics1-06.svg",
+          "title": "Localization Testing"
+        },
+        {
+          "image": "images/Testing/Infographics1-07.svg",
+          "title": "Device Compatibility"
+        },
+        {
+          "image": "images/Testing/Infographics1-08.svg",
+          "title": "Browser Compatibility"
+        }
+      ]
+    },
+    "mentorErp": {
+      "rowOne": [
+        {
+          "title": "100% Paperless",
+          "image": "../assets/images/Common/erp-icon-3.svg",
+          "content": "Mentor ERP allows for easy management of documents digitally. Documents of any format, size or volume, including transactions can be efficiently managed on the Cloud based centralized repository. Secure access and retrieval of files is made possible through multi-factor authentication."
+        },
+        {
+          "title": "Comprehensive service",
+          "image": "../assets/images/Common/erp-icon-1.svg",
+          "content": "Mentor ERP guarantees peace of mind. As a part of our commitment, Mentor ERP takes the ownership of the entire implementation process, end-to-end solution. Experts at Mentor ERP would do the job for you at NO EXTRA COST. Services provided would include data migration of existing student information, 3rd party Integration, training for the administrators, faculties, including post implementation service."
+        }
+      ],
+      "rowTwo": [
+        {
+          "title": "Higher Return on Investiment (ROI)",
+          "image": "../assets/images/Common/erp-icon-2.svg",
+          "content": "Our tech support engineers would work with you to increase the product usage to 100%. Deeper and wider adoption will be delivered through workshops and campaigns with faculties to improve understanding and increase Return On Investment (ROI) much quicker."
+        },
+        {
+          "title": "Personalized Dashboard",
+          "image": "../assets/images/Common/erp-icon-4.svg",
+          "content": "Mentor ERP helps you to set up  your own dashboard exactly the way you would like to have. It offers multiple types of data visualizations that are automatically updated with the most current data."
+        }
+      ]
+    }
+  }
+]

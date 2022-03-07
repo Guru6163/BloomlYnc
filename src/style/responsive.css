@@ -1,0 +1,825 @@
+@media (max-width: 1199px) {
+    body {
+        padding-top: 96px;
+    }
+
+    #topbar {
+        margin: 0;
+    }
+
+    #topbar .social-links a {
+        color: #505050;
+    }
+
+    .navbar-light .navbar-nav .nav-item i {
+        color: #505050;
+    }
+
+    .navbar {
+        background-color: #fff;
+    }
+
+    .navbar.scrolled .navbar-nav .nav-link {
+        padding-right: .5rem;
+        padding-left: .5rem;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        color: #505050;
+    }
+
+    #mainSlider .splide__slide  {
+        display: flex;
+        background-color: #2f3293;
+        padding: 50px 20px 50px 20px;
+        height: 530px;
+        align-items: center;
+    }
+
+    #mainSlider .owl-prev {
+        margin-left: 0 !important;
+    }
+
+    #mainSlider .owl-next,
+    #mainSlider .owl-prev {
+        background-color: #fff;
+    }
+
+    #mainSlider .owl-next {
+        right: 0;
+    }
+
+    #mainSlider.splide  .splide__slide  img {
+        max-width: 55%;
+        margin: 0 !important;
+        padding-left: 30px;
+    }
+
+    #mainSlider.splide  .splide__slide  .sliderContent {
+        width: 40%;
+        position: static;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .bigBox {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .paragraph {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .efficiencyDiv img {
+        min-height: auto;
+        max-height: none;
+    }
+
+    .efficiencyDiv {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .driverSliderContent {
+        min-height: auto;
+    }
+
+    .driverSliderContent button {
+        position: static;
+    }
+
+    .navbar {
+        padding-top: 15px !important;
+        padding-bottom: 15px !important;
+    }
+
+    #bannerdiv {
+        margin-top: 0;
+    }
+
+    .navbar-light.txtBlack.navTop .navbar-nav .active>.nav-link:after {
+        left: calc(50% - 8px)
+    }
+
+    .priceList li {
+        position: relative;
+        padding-left: 50px
+    }
+
+    .priceArrow {
+        margin-left: 0;
+        margin-right: 13px;
+        position: absolute;
+        top: 13px;
+        left: 20px;
+    }
+
+    .priceliTitle {
+        padding-left: 0 !important;
+    }
+
+    h2 {
+        padding-top: 60px;
+        padding-bottom: 0;
+    }
+
+    .professionMt-20 {
+        padding-left: 20px !important;
+    }
+
+    img.paddingBottom50 {
+        margin-top: -40px !important
+    }
+
+    .drivePadding {
+        margin-bottom: 0px;
+    }
+
+    .modalImg {
+        border-radius: 22px 0 0 22px;
+        width: 100%;
+      
+    }
+
+    .italic {
+        padding-right: 0;
+    }.LeftImage.w-85 {width: 100% !important;} .col-md-8.paddingLeft {padding-left: 15px;}
+}
+
+
+@media (max-width: 992px) {
+    .navbar {
+        padding: 10px 7px 10px !important;
+        background-color: #fff !important;
+    }
+
+    .logoheight {
+        height: 30px;
+    }
+    .splide__arrows {
+        display: none;
+    }
+
+    .container,
+    .container-md,
+    .container-sm {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .navbar .container,
+    .navbar .container-md,
+    .navbar .container-sm {
+        justify-content: start;
+
+    }
+
+    .nav-item,
+    .txtBlack .nav-item {
+        padding-right: 6px;
+    }
+    #mainSlider .splide__slide{flex-direction: column;height: auto;}
+    #mainSlider.splide  .splide__slide  .sliderContent {
+        width: 60%;
+        padding-right: 40px;
+    }
+
+    .demoBtn>a {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    #mainSlider .item {
+        flex-direction: column;
+        text-align: center;
+        height: 720px;
+    }
+
+    #mainSlider.splide  .splide__slide  img {
+        padding-left: 0;
+    }
+
+    #mainSlider.splide  .splide__slide  .sliderContent {
+        padding-right: 0;
+        padding-left: 0;
+        width: 70%;
+    }
+
+    .navbar {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .priceliTitle {
+        padding-left: 15px !important;
+        margin-left: 0 !important;
+    }
+
+    .priceList {
+        height: 100%;
+    }
+
+    .priceList li {
+        position: relative;
+        padding-left: 50px
+    }
+
+    .priceArrow {
+        margin-left: 0;
+        margin-right: 13px;
+        position: absolute;
+        top: 13px;
+        left: 20px;
+    }
+
+    .bannerdiv {
+        top: 0;
+    }
+
+    .bannerdiv h5 {
+        font-size: 30px;
+        margin-top: 0;
+    }
+
+    .process {
+        right: 15px;
+        top: 70px;
+    }
+
+    .addressPadding {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    #bannerdiv {
+        margin-top: 0;
+    }
+
+    .professionMt-20 {
+        padding-left: 20px !important;
+    }
+
+    .modalImg {
+        border-radius: 22px 22px 0 0;
+    }
+
+    .italic {
+        padding-right: 0;
+    }.LeftImage.w-85 {width: 100% !important;} .col-md-8.paddingLeft {padding-left: 15px;}
+}
+
+
+
+@media (max-width: 767px) {
+    body {
+        padding-top: 70px;
+    }
+
+    #topbar {
+        display: none;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        display: inherit;
+    }
+
+    .navbar {
+        padding: 15px 20px !important;
+        position: fixed;
+
+    }
+
+    .mobileIcons li.nav-item {
+        padding-left: 0;
+    }
+
+    .navbar-expand-lg>.container,
+    .navbar-expand-lg>.container-fluid,
+    .navbar-expand-lg>.container-lg,
+    .navbar-expand-lg>.container-md,
+    .navbar-expand-lg>.container-sm,
+    .navbar-expand-lg>.container-xl {
+        justify-content: flex-start;
+    }
+
+    #bannerdiv {
+        margin-top: 0;
+        padding-top: 0;
+        position: relative;
+    }
+
+    #bannerdiv::before {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        content: '';
+        background-color: rgba(0, 0, 0, .5);
+    }
+
+    .bannerdiv {
+        left: 0;
+        right: 0;
+        top: 0;
+        padding: 15px;
+    }
+
+    .bannerdiv h5 {
+        font-size: 25px;
+        margin-top: 0;
+        text-align: left;
+        margin-bottom: 15px;
+        color: #fff;
+
+        padding: 0;
+        bottom: 0;
+    }
+
+    .bannerdiv p {
+        color: #fff;
+    }
+
+    #mainSlider {
+
+        height: auto;
+    }
+
+    .owl-prev,
+    .owl-next {
+        top: 70px;
+        width: 30px;
+        height: 30px;
+    }
+
+    .owl-next {
+        right: 8px !important;
+
+    }
+
+    .owl-prev {
+        left: -8px;
+    }
+
+    #mainSlider.splide  .splide__slide  img {
+        max-width: 80%;
+    }
+
+    .efficiencyDiv img {
+        max-height: auto;
+        min-height: auto;
+    }
+
+    .efficiencyDiv {
+        padding: 0;
+    }
+
+    .driveSlider .splide  .owl-nav button.owl-next,
+    .driveSlider .splide  .owl-nav button.owl-prev,
+    .splide  button.owl-dot {
+        background-color: #fff;
+    }
+
+    .driveSlider .owl-prev {
+        left: -13px;
+        margin: 0 !important;
+    }
+
+    #mainSlider .item {
+        height: 660px;
+        padding-top: 20px;
+    }
+
+    .driveSlider .owl-next {
+        right: -13px !important;
+    }
+
+    .driverSliderContent {
+        padding-top: 0;
+        padding-left: 15px;
+        padding-right: 15px;
+        height: auto;
+        min-height: auto;
+
+    }
+
+    .driverSliderContent button {
+        position: static;
+    }
+
+    #mainSlider.splide  .splide__slide  img {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    #mainSlider.splide  .splide__slide  .sliderContent {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    #mainSlider .owl-next,
+    #mainSlider .owl-prev {
+        top: 30%;
+    }
+
+    #mainSlider .owl-prev {
+        margin-left: 15px !important;
+    }
+
+    .paragraphTitle {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .ul {
+        padding-left: 25px;
+    }
+
+    .ul li {
+        padding-left: 0;
+    }
+
+    .ul li:before {
+        position: relative;
+        left: 20px;
+    }
+
+    .ul.paddingBottom50 {
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
+
+    .paddingtop50 {
+        padding-bottom: 30px;
+    }
+
+    .h2,
+    h2 {
+        font-size: 30px;
+        padding: 30px 0;
+    }
+
+    .subtitle {
+        margin-top: 20px;
+        padding: 0;
+    }
+
+    .linemargin {
+        margin: 20px 0;
+    }
+
+    .bigBox {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .container .navbar {
+        position: static;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+
+    #mobileMenu {
+        display: initial;
+        position: relative;
+        top: 5px;
+    }
+   
+
+    .mobileIcons li a {
+        border-bottom: 0px;
+        margin-right: 10px;
+        text-decoration: none;
+        color: #82c35b !important;
+        font-size: 20px;
+    }
+
+    .mobile-hide {
+        display: none !important;
+    }
+
+    .navbar-light .navbar-brand {
+        font-size: initial;
+    }
+
+    .navbar .container,
+    .navbar .container-md,
+    .navbar .container-sm {
+        justify-content: start;
+        height: 100%;
+
+    }
+
+    .navbar .dropdown-menu {
+        left: initial;
+        right: 0;
+    }
+
+    .navbar .dropdown-menu.sub-menu {
+        font-size: 14px;
+
+    }
+
+    .efficencyTitle {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .efficencyUl {
+        padding-left: 0;
+    }
+
+    .efficencyUl li {
+        padding-left: 30px;
+        margin-left: 0;
+        padding-right: 0;
+    }
+
+    .efficencyUl li:before {
+        left: 15px;
+    }
+
+    .efficency {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .priceArrow {
+        margin: 0;
+        margin-right: 15px;
+    }
+
+    .priceList li.priceliTitle {
+        margin-left: 0 !important;
+    }
+
+    .mgtop-105 {
+        margin-top: 0px;
+        padding: 0 !important;
+    }
+
+    .mgbottom50 {
+        margin-bottom: 20px;
+    }
+
+    .footerh2 {
+        margin-left: 0;
+        height: auto;
+    }
+
+    .homeBottom {
+        background-size: 100%;
+        /* background: url('../assets/images/Banner/home_bottom1-m.jpeg')  no-repeat; */
+        background-color: #e8eeee;
+    }
+
+    .drive {
+        padding-bottom: 20px;
+    }
+
+    .drivePadding {
+        margin-bottom: 0px;
+    }
+
+    .bannerdiv .custombtn {
+        margin-left: 15px;
+
+    }
+
+    .txtBlack .nav-item {
+        padding-right: 0;
+    }
+
+    .padding-100 {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .LeftImage {
+        margin-bottom: 20px;
+        width: 100% !important;
+    }
+
+    .italic {
+        padding-right: 0;
+    }
+
+    .paddingLeft {
+        padding-left: 15px;
+    }
+
+    .padding-70 {
+        padding-top: 30px;
+    }
+
+    .header {
+        padding-bottom: 20px;
+    }
+
+    .aboutsubtitle {
+        margin-top: 20px;
+        padding-left: 0;
+    }
+
+    .aboutParagrph {
+        padding-left: 0;
+
+    }
+
+    .txtCenter {
+        margin: 0 15px;
+    }
+
+    .aboutbox img {
+        min-height: auto;
+        max-height: inherit;
+    }
+
+    .aboutbox {
+        min-height: auto;
+        padding-bottom: 10px;
+    }
+
+    .profileBottom {
+        margin-bottom: 50px;
+    }
+
+    .profileContent {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .paragraph {
+        padding-bottom: 0;
+    }
+
+    .culturetitle {
+        padding-bottom: 0;
+    }
+
+    .culturBoxContent {
+        padding: 15px;
+        padding-right: 15px;
+    }
+
+    .customWidth {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .processImgHeight {
+        min-height: 310px;
+    }
+
+    .qualityPaddingBottom {
+        padding-bottom: 20px;
+    }
+
+    .bannerdiv h5 {
+        padding-left: 0;
+    }
+
+    .erpBanner {
+        padding: 15px;
+
+    }
+
+    .erpBanner::before {
+        content: '';
+        position: absolute;
+        background-color: rgba(0, 0, 0, .5);
+        left: 0;
+        right: 16px;
+        top: 0;
+        bottom: -13px;
+        z-index: 0;
+    }
+
+    .erpBanner h5 {
+        width: 100%;
+        font-size: 30px;
+        position: relative;
+    }
+
+    .erpBanner button {
+        position: relative;
+    }
+
+    .mobileImg {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .addressPadding {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    #navbarSupportedContent ul.sub-menu {
+        position: relative;
+
+        clear: both;
+        width: 100%;
+        box-shadow: none !important;
+        width: 100%;
+        background-color: #f5f5f5;
+        padding: 0;
+    }
+
+    #navbarSupportedContent ul.sub-menu li {
+        padding-left: 0;
+        margin-top: 0;
+    }
+
+    #navbarSupportedContent ul.sub-menu li a {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    #navbarSupportedContent .dropdown-toggle::after {
+        display: none;
+    }
+
+    .navbar-light.scrolled .navbar-nav .active>.nav-link:after {
+        display: none !important;
+    }
+
+    .navbar-light .navbar-nav .active>.nav-link:after {
+        display: none;
+    }
+
+    .nav-item {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #f5f5f5;
+    }
+
+    .modalForm {
+        padding-right: 25px;
+    }
+
+    #bannerdiv {
+        margin-top: 0;
+    }
+
+    .modalImg {
+        border-radius: 0;
+    }
+
+    .footer_ul_amrc {
+        padding-left: 22px;
+    }
+
+    .reserved {
+        display: inline-block;
+        width: 100%;
+    }
+
+    img.paddingBottom50 {
+        margin-top: 0px !important
+    }
+
+    .drivePadding {
+        margin-bottom: 0px;
+        padding-top: 30px;
+    }
+
+    .modalImg {
+        border-radius: 22px 22px 0 0;
+    }
+    .width-mobile-45px {
+        width: 45px;
+    }
+    .width-mobile-cal-45 {
+        width: calc(100% - 45px);
+        padding: 0 !important;
+    }
+    .w-100-mobile {
+        width: 100% !important; 
+    }
+    .mobile-scroll-img {
+        width: 100%;
+        overflow: auto;
+    }
+    .mobile-scroll-img img {
+        max-width: inherit;
+        width: 250% !important;
+    }
+    #devops::before {
+        content: '';
+        background-color: rgba(0,0,0,0.7);
+        position: absolute;
+        width: 100%;
+        height: 100%;
+    }
+    .process {
+        left: 0px;
+        right: 0;
+        padding: 20px;
+        top: 0;
+    }
+    #mobileMenu .nav-link.active::after {
+        display: none !important;
+    }
+
+}

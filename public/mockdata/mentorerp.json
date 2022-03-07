@@ -1,0 +1,174 @@
+[
+  {
+    "Slider": [
+      {
+        "image": "../assets/images/Banner/home_banner.svg",
+        "mobileImage": "../assets/images/Banner/Bnnaer_1.svg",
+        "title": "All in One Management Solution for your Institution",
+        "content": [
+          "It is an innovative cloud-based Software as a Service that offers  affordable solutions",
+          "focused on easy and effective administration of Educational Institutions of any size."
+        ]
+      },
+      {
+        "image": "../assets/images/Banner/home_banner3a-01.svg",
+        "mobileImage": "../assets/images/Banner/Home_Banner02.svg",
+        "title": "Easy Integration to Improve Operational Efficiency",
+        "content": [
+          "Delivering a reliable and highly secured digital",
+          "platform for Educational Institutions, allows easier",
+          "management of interactions among faculty,",
+          "students and their parents in real-time."
+        ]
+      }
+    ],
+    "freeTrial": {
+      "title": "Discover Mentor ERP Now!",
+      "image": "../assets/images/Common/discoverpopup.jpg",
+      "button": "Submit",
+      "placeholder": [
+        { "title": "institute", "placeholder": "Name of Institute*" },
+        { "title": "name", "placeholder": "Contact Person Name*" },
+        { "title": "contact", "placeholder": "Contact Number*" },
+        { "title": "email", "placeholder": "Email ID*" },
+        { "title": "note", "placeholder": "Note*" }
+      ]
+    },
+    "ourCloud": {
+      "image": "../assets/images/Common/Benefits.svg",
+      "title": "Key Benefits of Our Cloud Architecture"
+    },
+    "mentorERP": {
+      "title": "What Makes Mentor ERP different?",
+      "content": {
+        "rowOne": [
+          {
+            "image": "../assets/images/Common/erp-icon-3.svg",
+            "title": "100% Paperless",
+            "content": "Mentor ERP allows for easy management of documents digitally. Documents of any format, size or volume, including transactions can be efficiently managed on the Cloud based centralized repository. Secure access and retrieval of files is made possible through multi-factor authentication."
+          },
+          {
+            "title": "Comprehensive service",
+            "image": "../assets/images/Common/erp-icon-3.svg",
+            "content": "Mentor ERP guarantees peace of mind. As a part of our commitment, Mentor ERP takes the ownership of the entire implementation process, end-to-end solution. Experts at Mentor ERP would do the job for you at NO EXTRA COST. Services provided would include data migration of existing student information, 3rd party Integration, training for the administrators, faculties, including post implementation service."
+          }
+        ],
+        "rowTwo": [
+          {
+            "title": "Higher Return on Investiment (ROI)",
+            "image": "../assets/images/Common/erp-icon-3.svg",
+            "content": "Implementing. Our tech support engineers would work with you to increase the product usage to 100%. Deeper and wider adoption will be delivered through workshops and campaigns with faculties to improve understanding and increase Return On Investment (ROI) much quicker."
+          },
+          {
+            "title": "Personalized Dashboard",
+            "image": "../assets/images/Common/erp-icon-3.svg",
+            "content": "Mentor ERP helps you to set up  your own dashboard exactly the way you would like to have. It offers multiple types of data visualizations that are automatically updated with the most current data."
+          }
+        ]
+      }
+    },
+    "driveEff": {
+      "image": "../assets/images/Common/icon-2.svg",
+      "title": "MentorERP - Drive Efficency",
+      "quote": "“This app is so easy to work with. I am now able to complete all my daughter’s school related things in one place. It saves my time” – Dr. Shanthi Murugan",
+      "content": {
+        "title": "Automation and Future proof",
+        "content": [
+          "RFID, Bio-metric devices can be integrated to Mentor ERP to manage attendance marking system, College bus movement can be tracked in real-time through GPS navigation. CCTV Surveillance system can also be brought under Mentor ERP to monitor the campus at all times.",
+          "With the arrival of COVID 19, numerous educational institutions are exploring the possibility of providing an online classroom delivery model. By seamlessly integrating your Audio Visual aids, you’ll be able to use Mentor ERP as a delivery platform."
+        ]
+      }
+    },
+    "collaboration": {
+      "image": "../assets/images/Common/icon-1.svg",
+      "title": "Collaboration and Operational efficiency",
+      "content": [
+        "Mentor ERP’s centralized noticeboard is a one stop shop for all Push notifications to students and their parents. Through its versatile reporting page, multiple type of reports and forms can be downloaded and uploaded effortlessly.",
+        "Mentor ERP has an in-built collaborative platform for the teaching faculty to share study materials, reference documents, white board content with the students. Submission and collection of finished assignments, home learning activities for assessment and projects conveniently.",
+        "Task collaboration feature allows you to bring together faculties, parents and students on one system for easy exchange of information, schedule meetings, and enhance collaboration.",
+        "It is capable of connecting with any payment gateway to enable electronic payments for convenient student admission and easy fee management."
+      ]
+    },
+    "anytime": {
+      "image": "../assets/images/Common/icon-3.svg",
+      "title": "Anywhere and AnyTime",
+      "content": [
+        "Mentor ERP creates features and tools to engage students, parents and faculties accessible anywhere and anytime on any computer or mobile devices.",
+        "Bring conversations, study materials, assignment, reports and integrated apps together from a single Mentor ERP experience. Collaborate in real time with no boundaries, ensuring all the data are tightly coupled to access easily.",
+        "The application is optimized to give a seamless end-user experience on any iOS and Android devices."
+      ]
+    },
+    "saasModel": {
+      "title": "MentorERP - Go Paperless and Drive Efficency",
+      "subTitle": "(Software as a Service model)",
+      "content": {
+        "colOne": {
+          "title": "Standard",
+          "subTitle": "(Core features of Educational Institution)",
+          "price": "₹10 per student/month",
+          "button": "Join Standard",
+
+          "content": [
+            "Student Interview Management",
+            "Student Enrollment",
+            "Student Information System",
+            "Fee Management",
+            "Payment Gateway Integration",
+            "Employee Management System",
+            "Profile Management",
+            "Institution - Calendar",
+            "Attendance Management",
+            "Time Table Management",
+            "Leave Management",
+            "Email Notification",
+            "Notice Board",
+            "Dashboard"
+          ]
+        },
+        "colTwo": {
+          "title": "Professional",
+          "add": "All features from Standard and ",
+          "subTitle": "(Easy collaboration, Real-time Reporting and mobile platform)",
+          "price": "₹20 per student/month",
+          "button": "Join Professional",
+          "content": [
+            "Exam Management",
+            "Manage Assignment",
+            "Student Report Card",
+            "Front Desk Management",
+            "Generate ID Card",
+            "Task Collaboration",
+            "Event Management",
+            "Student Promotion",
+            "Library Management",
+            "Mobile Application",
+            "Mobile - Push Notification",
+            "SMS Notification",
+            "Certificate Management",
+            "Live Reporting"
+          ]
+        },
+        "colThree": {
+          "title": "Premium",
+          "add": "All features from Professional and ",
+          "subTitle": "(Safety, Real-time monitoring, and Innovation)",
+          "price": "₹30 per student/month",
+          "button": "Join Premium",
+          "content": [
+            "Transport Management",
+            "Bus – Live tracking",
+            "Payroll Management",
+            "Hostel Management",
+            "Attendance - Bio-Metric",
+            "Attendance - RFID",
+            "Inventory Management",
+            "Branch Management",
+            "Real-time Dashboard",
+            "Grievance Management",
+            "CCTV Survillance"
+          ]
+        }
+      }
+    }
+  }
+]

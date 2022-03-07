@@ -1,0 +1,116 @@
+[
+  {
+    "subBanner": [
+      {
+        "image": "../assets/images/Banner/about.jpg",
+        "mobileImage": "../assets/images/Banner/banner1.svg",
+        "title": "We create an equal culture environment",
+        "content": "Where employees are valued, motivate each other to reach maximum potential "
+      }
+    ],
+    "about": {
+      "colOne": {
+        "about": "To empower people and make them competent is the real utility of our profession.",
+        "aboutContent": " “The best way to achieve your team capability is to get them on a smart system and see how their expertise modifies the tasks.”",
+        "image": "../assets/images/About/leftBanner.jpg",
+        "name": " Solomon Raja P S, Director"
+      },
+      "colTwo": [
+        "An educational institution stays the most inspirational management because it has to deal with the dynamic nature of education along with a group of people who are highly intellect and also learners to make a primitive contribution in the education industry.",
+        "Our primary focus is helping educational institutions and organizations stay on the cutting-edge technologies by developing products and modern applications, that are scalable, flexible, secure, robust and easily maintainable. We work collaboratively with you to deliver projects through agile development methodology with built-in quality assurance and transparency is the most satisfactory feedback received over the years.",
+        "We remain consistent in providing IT solutions with greater efficiency and utmost quality, ensuring complete customer satisfaction. We help organizations effectively manage the application portfolio with the help of our highly qualified, vast industry experience and skilled professionals. We empower our clients with transformational value by leveraging our proven implementation tools, techniques, following the industry best practices."
+      ]
+    },
+    "mission": {
+      "mission": "We strive to capacitate organizations in managing their digital transformation journey competently by making it cost-effective.",
+      "vision": "We would like to empower educational institutions on their digital transformation journey through high quality and cost effective tailor made solutions and help them improve their service to the students and their parents that solves day to day operational problems through our educational domain knowledge expertise, technology, process excellence and team work.",
+      "image": "../assets/images/About/About_mission.png"
+    },
+    "ourCulture": {
+      "header": "Bloomlync Technology is committed to comply with government laws and regulations and applying a strict code of conduct to all employees. We aim to become one of the most ethical organizations and train our employees to diligently practice fair and transparency whatever we do. We serve our esteemed customers by offering Integrity, Innovation, Quality, and team work to build a healthy relationship and sustainable delivery.",
+      "boxData": {
+        "rowOne": [
+          {
+            "content": "Our team symbolizes creativity and innovation. The commitment and the sincerity to solve each customer’s day to day operational problems by our team get regarded. Bloomlync is proud of its every member.",
+            "title": "Employee First",
+            "image": "../assets/images/About/About_EmployeeFirst.png"
+          },
+          {
+            "content": "We endeavour to provide gratifying customer service by adopting the flexibility to align our goals. Therefore, it helps us to be more focused on the customers’ businesses and expectations.",
+            "title": "Customer Centric",
+            "image": "../assets/images/About/Customer_Centric.png"
+          }
+        ],
+        "rowTwo": [
+          {
+            "image": "../assets/images/About/Banner3.png",
+            "content": "We bond with our customers and employees by maintaining high ethical standards and honesty, with a notion of responsibility in all our relations.",
+            "title": "Integrity"
+          },
+          {
+            "image": "../assets/images/About/Banner4.png",
+            "content": "We constantly strive to redefine the standard of excellence through continuous focused learning and drive efficiency through innovation in every thing that we do.",
+            "title": "Innovation"
+          }
+        ],
+
+        "rowThree": [
+          {
+            "image": "../assets/images/About/Banner5.png",
+            "content": "We stay committed to delivering high-value products and services to exceed the expectation of our customers in everything we do which assures good return on investment and customer satisfaction.",
+            "title": "Quality"
+          },
+          {
+            "image": "../assets/images/About/About_Teamwork.png",
+            "content": "Behind every leap that we take in the industry, is our strong spine. Teamwork is the highest encouragement of any successful delivery. It leads employees to reach their maximum potential in order to serve our customers effectively and efficiently.",
+            "title": "Team Work"
+          }
+        ]
+      }
+    },
+    "team": {
+      "rowOne": [
+        {
+          "image": "../assets/images/Profile/Solomon.png",
+          "designation": "Director, Co-Founder",
+          "about": "Solomon has more than 18 years of industry experience in technology and project management for working with Microsoft, Intel, Liberty Mutual clients and has hands on technology experience in Retail, Banking, Sports, Media and Software Technology domains. He is passionate towards building a digital platform for Educational Institutions and responsbile for building product road map and customer satisfication.",
+          "name": "Solomon Raja P S"
+        },
+        {
+          "image": "../assets/images/Profile/Bala Chandar.png",
+          "designation": "CTO, Co-Founder",
+          "about": "Bala has 12 years of technical experience on building modern web application, native mobile and hybrid mobile applications. Having an extended experience of more than 8 years in development of School management systems, playing multiple leadership roles within Bloomlync, including product owner and architect of mobile applications strengthening his knowledge of educational sector.",
+          "name": "Balachandar"
+        }
+      ],
+      "rowTwo": [
+        {
+          "image": "../assets/images/Profile/Suresh.png",
+          "designation": "Product Advisor",
+          "about": "Dr.Kavitha has 20 years of professional teaching experience, working at multiple universities and has extensive experience as an active researcher and has done a PhD on Fuzzy modelling. She guides us to meet the industry compliance norms and provide directions to the product development.",
+          "name": "Kavitha Suresh"
+        },
+        {
+          "image": "../assets/images/Profile/Kalpana.png",
+          "designation": "Education Advisor",
+          "about": "Ms.Kalpana has 11+ years of professional teaching experience, serving as professor for Maths department and an effective practitioner in knowledge management and innovation. She provides guidance on implementation of features related to teaching and non-teaching faculty module.",
+          "name": "Kalpana Parameswaran"
+        }
+      ],
+      "rowThree": [
+        {
+          "image": "../assets/images/Profile/VenuPriya.png",
+          "designation": "Finance Director",
+          "about": "Ms.Priya has extensive experience in Financial service and used to work for HDFC banking services, managing operational and legal teams to reduce the operational cost and improve operational efficency through innovation. She provides strategic direction and guidance on legal, operation and finance areas at Bloomlync.",
+          "name": "Venupriya T"
+        },
+        {
+          "image": "../assets/images/Profile/Usharani.png",
+          "designation": "E-Learning Advisor",
+          "about": "Ms.Usharani has rich experience in designing and building the interactive E-Learning platforms using modern technologies and leading the technical effort of integrating the open source platforms such as Moodle LMS into Mentor ERP.",
+          "name": "Usharani S"
+        }
+      ]
+    }
+  }
+]

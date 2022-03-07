@@ -1,0 +1,135 @@
+[
+  {
+    "subBanner": [
+      {
+        "image": "../assets/images/Banner/contactus_banner.PNG",
+        "mobileImage": "../assets/images/Banner/banner2.svg",
+        "title": "Let us connect to transform your manual operations into Digitised Institution to Drive Efficiency"
+      }
+    ],
+    "mentorErp": {
+      "title": "Mentor ERP Channel Partner",
+      "content": "Would you like to become a Channel Partner for Mentor ERP?",
+      "image": "../assets/images/Contact/banner2.png",
+      "button": "Get Started" 
+    },
+    "freeTrial": {
+      "title": "Discover Mentor ERP Now!",
+      "image": "../assets/images/Common/partnerpopup.png",
+      "button": "Submit",
+      "placeholder": [
+        { "title": "institute", "placeholder": "Organization Name*" },
+        { "title": "name", "placeholder": "Person Name*" },
+        { "title": "contact", "placeholder": "Mobile No*" },
+        { "title": "email", "placeholder": "Email Address*" },
+        { "title": "note", "placeholder": "City" },
+        { "title": "comment", "placeholder": "Comment" }
+      ]
+    },
+    "benefits": {
+      "title": "Benefits of Working Together",
+      "image": "../assets/images/Contact/image1.png",
+      "content": [
+        "Unlimited access to Bloomlync’s knowledge resource and product training",
+        "Revenue sharing based on Recurring Revenue model",
+        "Unlimited Sales and Marketing support",
+        "Unlimited access to Bloomlync’s Professional Network"
+      ]
+    },
+    "joinNetwork": {
+      "title": "Who can Join our Partner Network?",
+      "content": [
+        {
+          "image": "../assets/images/Contact/Partner_image1.png",
+          "title": "Educational Institutions"
+        },
+        {
+          "image": "../assets/images/Contact/Partner_image2.png",
+          "title": "EdTech Companies"
+        },
+        {
+          "image": "../assets/images/Contact/Partner_image3.png",
+          "title": "Education Enthusiast"
+        },
+        {
+          "image": "../assets/images/Contact/Partner_image4.png",
+          "title": "Technology Providers"
+        }
+      ]
+    },
+    "address": {
+      "india": {
+        "title": "India",
+        "subtitle": "Development Centre",
+        "image": "/assets/images/Contact/Icon1.svg",
+        "content": [
+          "Bloomlync Technology Pvt Ltd",
+          "No. 26/1, West Mada Street,",
+          "Maduravoyal, Chennai",
+          "TN - 600095, India"
+        ]
+      },
+      "international": {
+        "emailTitle": "Email",
+        "title": "International",
+        "office": {
+          "emea": {
+            "subtitle": "EMEA Office",
+            "image": "/assets/images/Contact/Icon1.svg",
+            "content": [
+              "Troy Consultancy",
+              "UNIT 65, Business Park, Ardwick,",
+              "Manchester M12 4AH, United Kingdom."
+            ]
+          },
+          "apac": {
+            "subtitle": "APAC Office",
+            "image": "/assets/images/Contact/Icon1.svg",
+            "content": [
+              "Level 12/82 Elizabeth Street,",
+              "Sydney, NSW - 2000 Australia,"
+            ]
+          }
+        },
+        "email": [
+          {
+            "email": "Helpdesk@Bloomlync.com",
+            "image": "/assets/images/Contact/Icon4.svg",
+            "href": "mailto:Helpdesk@Bloomlync.com"
+          },
+          {
+            "email": "Sales@Bloomlync.com",
+            "image": "/assets/images/Contact/Icon2.svg",
+            "href": "mailto:Sales@Bloomlync.com"
+          },
+          {
+            "email": "Partners@Bloomlync.com",
+            "image": "/assets/images/Contact/Icon3.svg",
+            "href": "mailto:Partners@Bloomlync.com"
+          }
+        ]
+        
+      },
+      "contact": {
+        "title": "Contact us",
+        "placeholder": [
+          "Name of Institute*",
+          "Your Name*",
+          "Select Service Type *",
+          ["Select Service Type *", "Product", "Service"],
+          "Select Service*",
+          [
+            "Select Service *",
+            "Custom Development",
+            "Mobile App Development",
+            "DevOps Implementation",
+            "Test Consulting",
+            "Test Automation"
+          ],
+          "Email ID.*",
+          "Contact No*"
+        ]
+      }
+    }
+  }
+]

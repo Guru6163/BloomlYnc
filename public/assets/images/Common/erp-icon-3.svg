@@ -1,0 +1,17 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.cls-1{fill:none;}.cls-2{fill:#2f3293;}</style>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="Group_6">
+   <path d="m35.8,18.5l0,7.3l6.7,0l-6.7,-7.3z" class="cls-2" id="Path_3"/>
+   <path d="m42.8,26.7l-8,0l0,-8.2l-12,0l0,5.7l20,14.1l0,-11.6z" class="cls-2" id="Path_4"/>
+   <path d="m45.3,42l-25.4,-17.9l-0.8,1.2l3.7,2.7l0,17.8l20,0l0,-3.8l1.7,1.2l0.8,-1.2z" class="cls-2" id="Path_5"/>
+  </g>
+ </g>
+</svg>

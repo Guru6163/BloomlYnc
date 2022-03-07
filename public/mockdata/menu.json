@@ -1,0 +1,100 @@
+[
+    {
+        "menu": [
+            {
+                "label": "Home",
+                "link": "/home"
+            },
+            {
+                "label": "Mentor ERP",
+                "link": "/product"
+            },
+            {
+                "label": "Service",
+                "link": "/development",
+                "subItems": [
+                    {
+                        "label": "Custom Development",
+                        "link": "/development"
+                    },
+                    {
+                        "label": "Mobile App Development",
+                        "link": "/development"
+                    },
+                    {
+                        "label": "DevOps Implementation", 
+                        "link": "/development"
+                    },
+                    {
+                        "label": "Test Automation",
+                        "link": "/testing"
+                    },
+                    {
+                        "label": "Testing Practise",
+                        "link": "/testing"
+                    },
+                    {
+                        "label": "Quality Engineering",
+                        "link": "/testing"
+                    }
+                ]
+               
+            },
+            {
+                "label": "About",
+                "link": "/about"
+            },
+            {
+                "label": "Contact",
+                "link": "/contact"
+            }
+        ],
+        "aboutMenu": [
+            {
+                "label": "About Us",
+                "children": [
+                    {
+                        "label": "Mission"
+                    },
+                    {
+                        "label": "Vission"
+                    },
+                    {
+                        "label": "Our Culture"
+                    },
+                    {
+                        "label": "Our Team"
+                    },
+                    {
+                        "label": "Contact Us"
+                    }
+                ]
+            }
+        ],
+        "mentorERPMent": [
+            {
+                "label": "Mentor ERP",
+                "children": [
+                    {
+                        "label": "Custom Development"
+                    },
+                    {
+                        "label": "DevOps Implementation"
+                    },
+                    {
+                        "label": "Test Automation"
+                    },
+                    {
+                        "label": "Testing Practise"
+                    },
+                    {
+                        "label": "Quality Engineering"
+                    }
+                ]
+            }
+        ],
+        "corporateAddress": [
+            
+        ]
+    }
+]

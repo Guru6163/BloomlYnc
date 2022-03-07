@@ -1,0 +1,233 @@
+[
+  {
+    "subBanner": [
+      {
+        "image": "../assets/images/Banner/main_banner.jpg",
+        "mobileImage": "../assets/images/Banner/banner3.svg",
+        "title": "Let us connect to transform your manual operations into Digitised Institution to Drive Efficiency"
+      }
+    ],
+    "focus": {
+      "image": "../assets/images/Development/image01.png",
+      "descrip": "Our primary focus is helping educational institutions and organizations stay on the cutting-edge technologies by developing products and modern applications, that are scalable, flexible, secure, robust and easily maintainable. We work collaboratively with you to deliver projects through agile development methodology with built-in quality assurance and transparency is the most satisfactory feedback received over the years.",
+      "content": [
+        "High Quality Product and Services",
+        "On-Time Delivery",
+        "Cost Effective Solution",
+        "Effective Communication",
+        "Continuous Improvement",
+        "Dedicated Implementation Support"
+      ],
+      "detail": "We remain consistent in providing IT solutions with greater efficiency and utmost quality, ensuring complete customer satisfaction. We help organizations effectively manage the application portfolio with the help of our highly qualified, vast industry experience and skilled professionals. We empower our clients with transformational value by leveraging our proven implementation tools, techniques, following the industry best practices."
+    },
+    "devops": {
+      "title": "Devops Process",
+      "descrip": "Our Devops team have extensive experience on choosing the right hosting platform (On-Prem, Cloud, Hybrid) to deploy the applications based on your business requirements. We have rich experience on Azure, AWS and Google Cloud Platform (GCP) and also choosing the cost-effective services such as AWS spot instance, GCP Preemptive instance for non-mission critical applications.",
+      "imageOne": "../assets/images/Development/process.jpg",
+      "imageTwo": "../assets/images/Development/process-m.jpeg"
+    },
+    "devMethod": {
+      "rowOne": {
+        "title": "Bloomlync Development Methodology",
+        "image": "../assets/images/Common/Agile_test_driven.png",
+        "subTitle": "Agile Test Driven Development Methodology",
+        "content": [
+          "Agile Test driven development (TDD) methodology is highly recommended, as it promotes continuous iteration of development and testing throughout the software development lifecycle. TDD leads to more modularized, maintainable, ﬂexible, and extensible code which emphasize on development of small units that can be written and tested independently and integrated later",
+          "It promotes the development of high-quality, shortens the programming feedback loop and it creates a detailed speciﬁcation which reduces effort spent on rework.",
+          "We aim to meet the growing business demand for faster release and increased software quality so we adopted CI/CD pipeline to implement a continuous development pipeline to streamline quick user feedback, any adjustments to the changing business strategy.",
+          "We build the CI/CD pipeline which helps engineering and operations teams to work together to create a cohesive release process and the key is automation (Unit and functional tests)."
+        ]
+      },
+      "rowTwo": {
+        "image": "./assets/images/Common/Model_methodology.png",
+        "title": "V-Model - Quality Assurance",
+        "subTitle": "Agile Test Driven Development Methodology",
+        "content": [
+          "V-model is also known as Veriﬁcation and Validation model, the development and QA activities are being done simultaneously and it’s based on the association of a testing phase for each corresponding development phase. It has higher chance of success over the waterfall model due to the development of test plan, test strategy early on during the life cycle.",
+          "Verification: It is a static analysis technique of the code through code review and automated tools. Our QA team uses tools such as Sonar Qube, Pylint, JS lint to do the static code analysis.",
+          "Validation: It is a dynamic analysis of application where testing is done by executing the code. We write both manual and automated tests to identify functional and non-functional quality issues.",
+          "Recommendation: This model works well for smaller projects when requirements are clear, precise, technology fitment analysis are done. Each phase has specific deliverables and a review process to move into next phase."
+        ]
+      }
+    },
+    "QAssurance": {
+      "rowOne": {
+        "title": "Quality Engineering Methodology",
+        "image": "../assets/images/Common/Agile_test_driven.png",
+        "subTitle": "Agile TDD - Quality Assurance",
+        "content": [
+          "Agile Test driven development (TDD) methodology is highly recommended, as it involves small adjustments of the underlying code are tested every time as we make changes to the code. TDD starts with developing test for each of the stories and the test would fail first as the tests are developed even before the development.Our team develops and refactors the code to pass the test which is developed even before the development.",
+          "Automated Unit Test: When we build a new piece of software, it will be tested to ensure it meets the requirements so we build unit tests with good code coverage. We constantly measure the code coverage percentage and test accuracy for continuous improvement.",
+          "API Test: Our quality assurance team build automated test to validate the response comes from an API through Postman and integrate the tests into the CI/CD pipeline.",
+          "We build test cases to perform other tests such as performance, security, etc. based on the complexity of the application and number of concurrent user logins at same time. TDD development for any product development is the highlight of our services."
+        ]
+      },
+      "rowTwo": {
+        "image": "./assets/images/Common/Model_methodology.png",
+        "title": "V-Model - Quality Assurance",
+        "subTitle": "Agile Test Driven Development Methodology",
+        "content": [
+          "V-model is also known as Veriﬁcation and Validation model, the development and QA activities are being done simultaneously and it’s based on the association of a testing phase for each corresponding development phase. It has higher chance of success over the waterfall model due to the development of test plan, test strategy early on during the life cycle.",
+          "Verification: It is a static analysis technique of the code through code review and automated tools. Our QA team uses tools such as Sonar Qube, Pylint, JS lint to do the static code analysis.",
+          "Validation: It is a dynamic analysis of application where testing is done by executing the code. We write both manual and automated tests to identify functional and non-functional quality issues.",
+          "Recommendation: This model works well for smaller projects when requirements are clear, precise, technology fitment analysis are done. Each phase has specific deliverables and a review process to move into next phase."
+        ]
+      }
+    },
+
+    "testAuto": {
+      "title": "Test Automation as Services you can rely on us",
+      "rowOne": [
+        {
+          "image": "../assets/images/Testing/Icons/Testing_icon1.svg",
+          "title": "Unit Testing"
+        },
+        {
+          "image": "../assets/images/Testing/Icons/Testing_icon2.svg",
+          "title": "Code Quality Testing"
+        },
+        {
+          "image": "../assets/images/Testing/Icons/Testing_icon3.svg",
+          "title": "API Testing"
+        },
+        {
+          "image": "../assets/images/Testing/Icons/Testing_icon4.svg",
+          "title": "Functional Testing"
+        }
+      ],
+      "rowTwo": [
+        {
+          "image": "../assets/images/Testing/Icons/Testing_icon5.svg",
+          "title": "Mobile Test Automation"
+        },
+        {
+          "image": "../assets/images/Testing/Icons/Testing_icon6.svg",
+          "title": "Performance Test Automation"
+        },
+        {
+          "image": "../assets/images/Testing/Icons/Testing_icon7.svg",
+          "title": "User Acceptance Testing"
+        },
+        {
+          "image": "../assets/images/Testing/Icons/Testing_icon8.svg",
+          "title": "Test Management"
+        }
+      ]
+    },
+    "softwareTestPractice": {
+      "rowOne": [
+        {
+          "image": "images/Testing/Infographics1-01.svg",
+          "title": "Integration Testing"
+        },
+        {
+          "image": "images/Testing/Infographics1-02.svg",
+          "title": "Regression Testing"
+        },
+        {
+          "image": "images/Testing/Infographics1-03.svg",
+          "title": "System Testing"
+        },
+        {
+          "image": "images/Testing/Infographics1-04.svg",
+          "title": "Compliance Testing"
+        }
+      ],
+      "rowTwo": [
+        {
+          "image": "images/Testing/Infographics1-05.svg",
+          "title": "User Accepance Testing"
+        },
+        {
+          "image": "images/Testing/Infographics1-06.svg",
+          "title": "Localization Testing"
+        },
+        {
+          "image": "images/Testing/Infographics1-07.svg",
+          "title": "Device Compatibility"
+        },
+        {
+          "image": "images/Testing/Infographics1-08.svg",
+          "title": "Browser Compatibility"
+        }
+      ]
+    },
+    "testingService": {
+      "title": "Testing Service",
+      "image": "../assets/images/Testing/image1.png",
+      "rowOne": [
+        "Testing is a significant step of the software development process which allows users to perceive the complete software. We help you to measure and control the software quality and ensure that the accessibility to the software becomes an obvious part of the business.",
+        "We offer a wide range of software testing services and solutions for the next generation organizations, OEMs, ISVs across the globe for any desktop, responsive web application and mobile platforms. Our deep-skilled quality assurance professionals have hands-on, end-to-end understanding of the day to day challenges faced by many organizations while on the path of moving towards digital transformation."
+      ],
+      "rowTwo": [
+        "At Bloomlync, we carefully analyse the problem statement, business requirements and recommend the best possible software testing methodology through our center of excellence (CoE) team. Whether it’s a desktop, web, mobile or next-gen based modern application, our software testing experts would come up with a cost effective solution to help you get more out of your testing efforts and improve time to market, thus, improves your return on investment (ROI).",
+        "We help our customers to improve the test efficiency through automation which allows you to perform consistent and repeatable tests, save time and money, and improve the test and code coverage. As automated tests perform precisely the same operations each time they are run so it helps to eliminate human error and even reducing the operational costs."
+      ]
+    },
+    "banner": {
+      "title": "Maximise the return on Investment through Automation and Continuous Improvement",
+      "image": "../assets/images/Testing/main_banner.jpg",
+      "button": "Contact us for more information"
+    },
+    "softwareDevPractice": {
+      "rowOne": [
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-1.svg",
+          "title": "Full Stack Development"
+        },
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-2.svg",
+          "title": "Native Mobile App Development"
+        },
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-3.svg",
+          "title": "Hybrid Mobile App Development"
+        },
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-4.svg",
+          "title": "API Development and Management"
+        },
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-5.svg",
+          "title": "UX/UI Design and Development"
+        },
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-6.svg",
+          "title": "CRM Design and Implementation"
+        }
+      ],
+      "rowTwo": [
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-7.svg",
+          "title": "DevOps Implementation"
+        },
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-8.svg",
+          "title": "Project Management"
+        },
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-9.svg",
+          "title": "Database Design"
+        },
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-10.svg",
+          "title": "Database Migration"
+        },
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-11.svg",
+          "title": "ETL Development"
+        },
+        {
+          "image": "../assets/images/Development/Practice icons/Practice_icons_icon-12.svg",
+          "title": "Cloud Computing"
+        }
+      ]
+    },
+    "customBanner": {
+      "title": "Accelerating your business through Innovation & Process excellence",
+      "image": "../assets/images/Development/main_banner.jpg",
+      "imageObj": "../assets/images/Banner/banner3.jpg",
+      "button": "Contact us"
+    }
+  }
+]

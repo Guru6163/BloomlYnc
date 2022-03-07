@@ -1,0 +1,6 @@
+
+@import 'style/style.css';
+@import 'style/responsive.css';
+html, body, #root, .App {
+    height: 100%;
+}
